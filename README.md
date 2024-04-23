@@ -1,2 +1,3 @@
-# ayed_listas_introduccion
-Introducción a Estructuras Enlazadas. Clase del 23/4/2024 1c2024.
+# AYED: Introducción a Estructuras Enlazadas (Listas)
+
+[Enlace a la presentación](https://docs.google.com/presentation/d/1gIjPyL_xkEc1H4UyCWMVZTW7nf-CLUWruOkzciHsDkA/edit?usp=sharing)
